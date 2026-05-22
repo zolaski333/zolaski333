@@ -17,8 +17,3 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 ### 💻 Projets à la une
 
 ---
-
-### 📊 Statistiques GitHub
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=zolaski333&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolaski333&layout=compact&theme=gotham)
