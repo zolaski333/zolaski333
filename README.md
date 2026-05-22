@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, moi c'est Noah ! 👋
 
-<!--
-**zolaski333/zolaski333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **BUT Informatique** à l'IUT Robert Schuman (Illkirch-Graffenstaden). Passionné par le développement logiciel, la résolution de problèmes et la création de projets concrets.
 
-Here are some ideas to get you started:
+En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (conception 3D et e-commerce), une expérience qui affine mon autonomie, ma rigueur et ma gestion de projet de A à Z.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Boîte à outils / Technologies
+
+*   **Langages :** C, C#, Java, Python, SQL, JS
+*   **Web & Outils :** Git, Linux, HTML/CSS
+*   **Librairies / Frameworks :** Pandas, NumPy, WinForms
+
+---
+
+### 💻 Projets à la une
+
+---
+
+### 📊 Statistiques GitHub
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=zolaski333&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolaski333&layout=compact&theme=gotham)
