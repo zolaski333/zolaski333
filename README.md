@@ -6,7 +6,7 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 
 ---
 
-### 🛠️ Technologies
+## 🛠️ Technologies
 
 **Langages**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -23,10 +23,9 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 
 ---
 
-### 💻 Projets à la une
-
----
-
-## En ce moment ⚡
+## 💻 Projets à la une
+| Projet | Description | Technos |
+|--------|-------------|---------|
+| 💻 nyx-cli | Lightweight Agentic CLI | `Pyhton` |
 
 ---
