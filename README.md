@@ -6,14 +6,26 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 
 ---
 
-### 🛠️ Boîte à outils / Technologies
+### 🛠️ Technologies
 
-*   **Langages :** C, C#, Java, Python, SQL, JS
-*   **Web & Outils :** Git, Linux, HTML/CSS
-*   **Librairies / Frameworks :** Pandas, NumPy, WinForms
+**Langages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Outils & méthodes**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logoColor=black)
 
 ---
 
 ### 💻 Projets à la une
+
+---
+
+## En ce moment ⚡
 
 ---
