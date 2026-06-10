@@ -26,6 +26,6 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 ## 💻 Projets à la une
 | Projet | Description | Technos |
 |--------|-------------|---------|
-| 💻 nyx-cli | Lightweight Agentic CLI | `Pyhton` |
+| 💻 nyx-cli | Lightweight Agentic CLI | `Python` |
 
 ---
