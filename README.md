@@ -28,5 +28,6 @@ En parallèle, je gère ma micro-entreprise **[GLR 3D](https://glr3d.com)** (con
 |--------|-------------|---------|
 | 💻 nyx-cli | Lightweight Agentic CLI | `Python` |
 | 🚗 EngineLab | 2D Motor Simulator | `C++` |
+| 💰 MarketLab | AI Trading Experiment | `Python` |
 
 ---
